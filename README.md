@@ -15,7 +15,7 @@ Speed Editor Utility is a software tool designed to enhance the functionality of
 1. **Download the Latest Release**:
    - Visit the Releases page and download the latest version for your operating system.
 2. **Install the Software**:
-   - Download and run the [installer.exe](https://github.com/mattgt933/speed-editor-utility/raw/main/dist/speed-editor-utility-installer.exe) installer and follow the prompts.
+   - Download and run the [installer.exe](https://github.com/mattgt933/speed-editor-utility/raw/main/speed-editor-utility-installer.exe) installer and follow the prompts.
 3. **Connect Your Speed Editor**:
    - Plug in your Speed Editor device via USB or connect via Bluetooth.
 4. **Launch the Utility**:
