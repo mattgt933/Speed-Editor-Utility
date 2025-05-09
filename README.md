@@ -19,7 +19,7 @@ Speed Editor Utility is a software tool designed to enhance the functionality of
 3. **Connect Your Speed Editor**:
    - Plug in your Speed Editor device via USB or connect via Bluetooth.
 4. **Launch the Utility**:
-   - Open the application. It will start in the background. To open it go to the hidden icons tab in the task bar.
+   - Open the application. It will start in the background. To open it, go to the hidden icons tab in the task bar.
 
 ## Usage
 
